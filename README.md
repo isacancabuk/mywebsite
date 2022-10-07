@@ -10,7 +10,7 @@ This website has been created with basics of HTML and CSS. Morever, it contains 
 
 ### Sample of my website:
 
-![]()
+![](https://raw.githubusercontent.com/isacancabuk/mywebsite/main/images/website.jpg)
 
 ---
 
